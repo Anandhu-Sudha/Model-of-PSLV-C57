@@ -3,7 +3,7 @@ Made an exhibition model of PSLV-C57.
 
 #throwback-jan-2024
 
-![image alt](https://github.com/Anandhu-Sudha/Model-of-PSLV-C57/blob/4263ca6ff5ea75b8582c4c8313d36fe8207e022a/pictures/full%20size.pn)
+![image alt](https://github.com/Anandhu-Sudha/Model-of-PSLV-C57/blob/4263ca6ff5ea75b8582c4c8313d36fe8207e022a/pictures/full%20size.png)
 
 This was for a school exhibition, the body of the model is made with PVC pipes and Polystyrene. It has some light show and sound effect ( countdown announcement and propulsion sound effect).
 
