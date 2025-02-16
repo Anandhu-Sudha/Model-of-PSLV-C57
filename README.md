@@ -3,13 +3,13 @@ Made an exhibition model of PSLV-C57
 
 #throwback-jan-2024
 
-<img src="https://github.com/Anandhu-Sudha/Model-of-PSLV-C57/blob/4263ca6ff5ea75b8582c4c8313d36fe8207e022a/pictures/full%20size.png" width="300" height="500" />
+![image alt](https://github.com/Anandhu-Sudha/Model-of-PSLV-C57/blob/4263ca6ff5ea75b8582c4c8313d36fe8207e022a/pictures/full%20size.pn)
 
 This was for a school exhibition, the body of the model is made with PVC pipes and Polystyrene. It has some light show and sound effect ( countdown announcement and propulsion sound effect).
 
 This was also implemented with Arduino (Nano). A microcontroller is not required for creating a simple led chaser circuit, but considering the time and effort needed to build a chaser circuit from ground, spending money for the Arduino was the wise choice. 
 
-<img src="https://github.com/Anandhu-Sudha/Model-of-PSLV-C57/blob/4263ca6ff5ea75b8582c4c8313d36fe8207e022a/pictures/circuitry.jpg" width="300" height="500" />
+![image alt](https://github.com/Anandhu-Sudha/Model-of-PSLV-C57/blob/4263ca6ff5ea75b8582c4c8313d36fe8207e022a/pictures/circuitry.jpg)
 
 one more nano was inside the enclosure 😉
 
@@ -18,7 +18,7 @@ Also there was a mp3 module attached to play the countdown and sound effect. Her
 
 Df player mini mp3 module 👇
 
-<img src="https://github.com/Anandhu-Sudha/Model-of-PSLV-C57/blob/4263ca6ff5ea75b8582c4c8313d36fe8207e022a/pictures/IMG20240120124912.jpg" width="300" height="500" />
+![image alt](https://github.com/Anandhu-Sudha/Model-of-PSLV-C57/blob/4263ca6ff5ea75b8582c4c8313d36fe8207e022a/pictures/IMG20240120124912.jpg)
 
 
 The build was pretty straight forward apart form the one issue that I've Noticed.
